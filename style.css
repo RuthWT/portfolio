@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+
+* {
+    font-family: 'PT Serif', serif;
+}
+body {
+    background-image: url(https://previews.123rf.com/images/julieschleifer/julieschleifer1706/julieschleifer170600007/81602446-leafy-green-frame-on-a-wooden-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size:cover;
+}
+div .collapse {
+    justify-content: center;
+
+}
+
+p .card-text {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.navbar-brand {
+    font-family: 'Courgette', cursive !important;
+}
+body {
+    padding-top: 70px;
+}
+footer {
+    padding-bottom: 70px;
+}
+#myCarousel {
+    position: relative;
+}
+.carousel-item {
+    transition: transform 2s ease, opacity .5s ease-out;
+}
+img {
+    border-radius: 50%;
+}
+object {
+    width: 100%;
+}
+
+
